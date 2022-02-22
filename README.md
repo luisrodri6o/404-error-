@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="error-404-dfcb5.firebaseapp.com">
+    <a target="blank" href="https://error-404-dfcb5.firebaseapp.com/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{https://github.com/luisrodri6o/404-error-.git}">
+    <a target="blank" href="https://{https://github.com/luisrodri6o/404-error-.git">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a target="blank" href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
       Challenge
     </a>
   </h3>
@@ -41,25 +41,20 @@
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
-https://error-404-dfcb5.firebaseapp.com/
+  https://error-404-dfcb5.firebaseapp.com/
 
 - What have you learned/improved?
-i learned to use the propieties auto-fit for to elabore the responsive web 
+  i learned to use the propieties auto-fit for to elabore the responsive web
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
 
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
-
 
 ## Acknowledgements
 
@@ -72,4 +67,3 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - GitHub [@your-username](https://github.com/luisrodri6o/your-usermame})
-
